@@ -1,6 +1,6 @@
 set linenumbers
 set autoindent
-set fill 80
+# set fill 80
 set breaklonglines
 set tabstospaces
 set guidestripe 80
