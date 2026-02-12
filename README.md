@@ -5,6 +5,13 @@ secure attacks
 
 Just use to learn and good things
 
+# Instalation
+
+- Create base_words.txt, numbers.txt, separators.txt, variations.txt, files
+- Populate files to generate a wordlist
+- Run `python3 variations.py`
+- Check the wordlist in `./variations.txt`
+
 # Author
 
 https://pablo.ct.ws
